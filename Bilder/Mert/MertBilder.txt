@@ -1,0 +1,9 @@
+Klappe.png
+Bilder/Mert/Klappe.png
+Klappe hinter dem Kopf des Roboters
+http://doc.aldebaran.com/2-1/family/robots/connectivity_nao.html
+
+FSR_Füße.png
+Bilder/Mert/FSR_Füße.jpg
+FSR-Positionen im Knöchelrahmen
+http://doc.aldebaran.com/2-1/family/robots/fsr_robot.html
